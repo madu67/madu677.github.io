@@ -1,0 +1,76 @@
+div{ 
+    background: url(img/agua.jpg);
+    text-align: center;
+    padding: 100px;
+    color: rgb(255, 255, 255);
+        }
+.subtitulo{
+  border-top: white solid;
+}
+
+#video1{
+      float: left; 
+     width: 600px;
+     height: 600px;
+     border-collapse: black solid;
+      }
+      
+    
+#text1{
+  border-top: black solid;
+     font-family: 'times new romam';
+    font-size: 18px;
+     }
+#text2{
+
+font-family: 'times new romam';
+font-size: 18px;
+ }
+#text3{
+
+ font-family: 'times new romam';
+font-size: 18px;
+}
+
+#text4{
+
+font-family: 'times new romam';
+font-size: 18px;
+}
+  
+#d5{
+font-family: arial;
+font-size: 25px;
+}
+#i5{
+  float: left;
+  width: 150px;
+}
+.botao{
+ border-bottom-style:white solid;
+  padding: 3px;
+  width: 60px;
+  height: 25px;
+  margin-left: 350px;
+}
+#poluiçao{
+float: left;
+width: 50px;
+height: 50px;
+}
+.icone{
+padding:30px;
+float: left;
+width: 150px;
+}
+#d10{
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial;
+}
+#video1{
+  float: left;
+  width: 400px;
+  height: 390px;
+
+}
